@@ -1,6 +1,5 @@
-> This project is no longer maintained. Please seek other alternatives such as [CoreUI](https://coreui.io/angular/demo/#/dashboard) or [BlurAdmin](https://akveo.github.io/blur-admin/).
 
-# RDash rdash-angular
+# RDash rdash-angular by borealia
 ## Responsive, bloat free, bootstrap powered admin style dashboard!
 
 rdash-angular is an AngularJS implementation of the RDash admin dashboard. The dashboard uses a small number of modules to get you started, along with some handy directives and controllers to speed up development using the dashboard.
